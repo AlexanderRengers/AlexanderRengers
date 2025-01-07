@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi there👋, I'm Alex</h1>
 <h3 align="center">Passionate about driving digital innovation, I thrive in developing cutting-edge cloud solutions that transform businesses. As a skilled Cloud Solution Architect at ADAC IT Service GmbH, I combine my strong expertise in designing and implementing cloud-based infrastructures with a knack for creating new and impactful digital services.</h3>
 
-- 🔭 I’m currently working on **Azure Cloud skills**
+- 🔭 I’m currently working on **my Azure Cloud skills**
 
-- 🌱 I’m currently learning **Container, especially Azure Kubernetes Service (AKS)**
+- 🌱 I’m currently learning **about containerization, especially Azure Kubernetes Service (AKS)**
 
-- 💬 Ask me about **Anything Azure**
+- 💬 Ask me about **anything Azure**
 
 - ⚡ Fun fact **I indulge in speciality coffee.**
 
